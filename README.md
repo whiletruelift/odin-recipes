@@ -14,6 +14,3 @@ The goal is to practice basic HTML structure and Git/GitHub workflow by building
   - Step-by-step instructions (ordered list)  
 - Easy navigation with links between pages.  
 
----
-
-## 📂 Project Structure
